@@ -1,6 +1,6 @@
 # Image preview of the project
 
-
+Simple Calculator
 
 ![](img/empty.png)
 
